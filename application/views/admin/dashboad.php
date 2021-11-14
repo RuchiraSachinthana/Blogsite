@@ -2,13 +2,7 @@
 
 
 
-<?php 
 
-if(!($this->session->userdata('logged_in'))){
-
-redirect('home/login');
-
-}
 
 if ($this -> session ->flashdata('welcome')){
 
