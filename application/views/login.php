@@ -30,7 +30,7 @@ echo "<h3>" .$this -> session -> flashdata ('welcome')." </h3> ";
   </div>
   <button type="submit" class="btn btn-default">Submit</button>
   <?php echo form_close(); ?>
-</form>
+
 </div>
 
 
