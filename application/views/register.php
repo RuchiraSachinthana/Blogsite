@@ -40,7 +40,7 @@ echo "<h3>" .$this -> session -> flashdata ('msg')." </h3> ";
   <button type="submit" class="btn btn-default">Submit</button>
 
 <?php echo form_close(); ?>
-</form>
+
 </div>
 
 
